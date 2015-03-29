@@ -1,7 +1,6 @@
 package cosine
 
 import (
-	//"fmt"
 	"errors"
 	"math"
 )
