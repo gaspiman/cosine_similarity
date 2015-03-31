@@ -1,4 +1,4 @@
-package cosine
+package cosine_similarity
 
 import (
 	"errors"
